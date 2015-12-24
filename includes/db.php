@@ -1,5 +1,5 @@
 <?php
-$link = mysqli_connect("db.johnldoner.com","ppsy_admin","l0gm31n!","ny2_whatsup");
+$link = mysqli_connect("","","","");
 
 // Check connection
 if (mysqli_connect_errno())
